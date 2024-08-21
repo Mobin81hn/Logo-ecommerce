@@ -1,0 +1,9 @@
+.hero-banner {
+    background-image: url("./assets/bgecom.png");
+    background-size: 100% 100%;
+}
+
+.offer-banner {
+    background-image: url("./assets/banneroffer.png");
+    background-size: 100% 100%;
+}
